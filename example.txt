@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from feature-2
+=======
+welcome to nhce
+>>>>>>> 106caca27f3c7f2f6dc08dcae15dda3ce38d5b9b
